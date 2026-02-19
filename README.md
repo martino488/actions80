@@ -1,12 +1,16 @@
-🎬 Movie DB Manager
-Gestore di database cinematografici sviluppato in PHP e MySQL su XAMPP/phpMyAdmin.
+Web Developer Project | Full Stack Training 
++1
 
-Caratteristiche:
+Gestore di database cinematografici sviluppato per consolidare le competenze in PHP e MySQL all'interno dell'ambiente XAMPP/phpMyAdmin.
 
-Struttura relazionale (Registi ➔ Film ➔ Recensioni).
+Caratteristiche principali:
 
-Creazione DB e tabelle automatizzata.
 
-Query SQL con JOIN e filtri.
+Data Modeling: Progettazione di una struttura relazionale complessa (Registi ➔ Film ➔ Recensioni).
 
-Popolamento dati (Seeding).
+Automation: Script per la creazione automatizzata di database e tabelle.
+
+
+Advanced Querying: Implementazione di query SQL con l'utilizzo di JOIN e filtri logici per il recupero dei dati.
+
+Data Seeding: Gestione del popolamento iniziale del database per test di funzionalità.
